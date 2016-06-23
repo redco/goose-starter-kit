@@ -1,9 +1,6 @@
 #!/usr/bin/env node
 "use strict";
 
-// force enable debug mode
-process.env['DEBUG'] = '*';
-
 const time = (new Date).getTime();
 const Goose = require('goose-parser');
 const url = 'https://www.google.com/search?newwindow=1&q=goose-parser';

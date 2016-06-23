@@ -1,0 +1,6 @@
+goose-starter-kit:
+  build: .
+  environment:
+    - DEBUG=*
+  volumes:
+      - ./app/index.js:/app/index.js
