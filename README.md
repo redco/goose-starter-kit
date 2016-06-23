@@ -12,3 +12,7 @@ Be aware that this kit requires [Docker](https://docker.com) installed.
 ```bash
 docker-compose up
 ```
+
+## How it looks like
+
+![](http://g.recordit.co/ISPxp9mUI5.gif)
