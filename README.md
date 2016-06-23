@@ -15,4 +15,4 @@ docker-compose up
 
 ## How it looks like
 
-![](http://g.recordit.co/ISPxp9mUI5.gif)
+![](http://g.recordit.co/mP2fk9diYh.gif)
