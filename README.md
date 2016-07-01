@@ -4,13 +4,26 @@ This is a starter kit for [Goose Parser](https://github.com/redco/goose-parser)
 
 ## Usage
 
-Be aware that this kit requires [Docker](https://docker.com) installed.
+First of all clone repo and start your project for it. And now there are two ways to run a project:
 
-- Clone this repo
-- Start the project with command:
+- inside a docker container
+- directly on a local system
+
+### Docker usage
+
+Be aware that this way requires [Docker](https://docker.com) installed.
+
+Start the project with command:
 
 ```bash
 docker-compose up
+```
+
+### Local system usage
+
+```bash
+npm install
+DEBUG=* node lib/index.js
 ```
 
 ## How it looks like
