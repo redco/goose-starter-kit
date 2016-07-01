@@ -1,0 +1,19 @@
+{
+  "name": "goose-starter-kit",
+  "version": "1.0.0",
+  "description": "This is an entrypoint to Goose",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redco/goose-starter-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/redco/goose-starter-kit/issues"
+  },
+  "homepage": "https://github.com/redco/goose-starter-kit#readme",
+  "dependencies": {
+    "goose-parser": "0.2.0-alpha.35"
+  }
+}

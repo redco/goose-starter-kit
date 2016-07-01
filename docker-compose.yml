@@ -3,4 +3,4 @@ goose-starter-kit:
   environment:
     - DEBUG=*
   volumes:
-      - ./app/index.js:/app/index.js
+    - ./lib:/app/lib
